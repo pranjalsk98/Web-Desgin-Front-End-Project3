@@ -1,0 +1,120 @@
+.logo{
+	width: 35px;
+}
+.menutop{
+	border: 2px solid #80808014;
+	background-color: #80808042;
+	margin-bottom: -1px;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	padding: 5px;
+		margin-top: 15px;
+}
+.menu{
+
+}
+.menubottom {
+	list-style: none;
+	padding: 0px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
+}
+.menu li{
+	border: 1px solid #80808014;
+	padding: 8px;
+	color: #808080d1;
+}
+.depara{
+	border: 1px solid #80808014;
+	padding: 15px;
+}
+.apbuttongroup{
+	border: 1px solid #80808014;
+	border-top: none;
+	    margin-top: -32px;
+    padding: 19px;
+}
+.paramid{
+	border-bottom: 1px solid #80808014;
+	padding-bottom: 15px;
+	padding-top: 15px;
+}
+.paratop{
+	padding:15px;
+}
+.paratopaler{
+	padding-top: 15px;
+}
+.forminput{
+	margin: 10px;
+	border: 1px solid #80808014;
+	border-radius: 5px;
+	    width: 71%;
+    padding: 12px;
+    font-size: 13px;
+    padding-bottom: 6px;
+    padding-top: 4px;
+    margin-left: 0px;
+    color: #80808014;
+}
+.depara placeholder{
+	padding: 5px;
+}
+.pbar{
+	border: 1px solid #80808014;
+	    padding: 25px;
+    padding-top: 17px;
+    width: 277px;
+    margin-left: 15px;
+    text-align: center;
+}
+.delinbr{
+	width: 1px;
+}
+.carsal{
+	width: 100px;
+	height: 228px;
+}
+footer{
+	background-color: #61474714;
+}
+.footdiv1{
+	padding: 90px;
+}
+.footdiv2{
+	padding: 90px;
+	padding-left: 30px;
+}
+.footdiv3{
+	padding: 90px;
+	padding-left: 30px;
+}
+.footdiv4{
+	padding: 90px;
+	padding-left: 30px;
+}
+.photo1{
+	text-align: center;
+	padding: 15px;
+	background-color: #73f3be;
+}
+.photo2{
+	text-align: center;
+	background-color: blue;
+	padding: 15px;
+}
+.gap{
+    margin-left: -26px;
+}
+.end{
+	    text-align: center;
+    margin: 15px;
+    margin-left: 276px;
+}
+.end1{
+	    margin-left: 40%;
+    margin-top: 0px;
+}
+.endtext{
+	border-right:1px solid gray;
+}
